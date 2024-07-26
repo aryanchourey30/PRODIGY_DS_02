@@ -1,0 +1,42 @@
+Name - ARYAN CHOUREY
+
+Company - PRODIGY INFOTECH
+
+Domain - DATA SCIENCE
+
+Duration - 1st July to 31st July
+
+KEY POINTS OF TITANIC DATASET ANALYSIS
+
+Data Loading and Basic Information:
+-> The Titanic dataset is loaded from a URL into a pandas DataFrame. -> Basic structure and summary of the data is examined using titanic.info(), which shows the data types and non-null counts for each column.
+
+Missing Values:
+-> Identifies the number of missing values in each column.
+
+Descriptive Statistics:
+-> Provides summary statistics of numerical columns such as 'Age', 'Fare', etc.
+
+Survival Count Plot:
+-> A bar plot showing the count of survivors and non-survivors. Helps visualize the imbalance in the survival rates.
+
+Survival Rate:
+-> The overall survival rate is calculated and printed, showing the percentage of passengers who survived.
+
+Age Distribution:
+-> A histogram and KDE plot of the age distribution, providing insight into the age demographics of passengers.
+
+Survival Rate by Age:
+-> KDE plots showing age distribution separated by survival status, illustrating how age affected the likelihood of survival.
+
+Survival Count by Class:
+-> A bar plot showing survival counts across different passenger classes, indicating the impact of class on survival.
+
+Survival Rate by Class:
+-> Grouped survival rates by passenger class, highlighting the correlation between class and survival.
+
+Survival Count by Gender:
+-> A bar plot showing survival counts by gender, emphasizing the differences in survival rates between males and females.
+
+Survival Rate by Gender:
+-> Grouped survival rates by gender, showing a significant difference in survival between males and females.
